@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/linguistic_complexity_of_genome" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/finding_disjoint_motifs_in_a_gene" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/creating_a_restiction_map" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
